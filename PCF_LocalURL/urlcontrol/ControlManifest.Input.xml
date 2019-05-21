@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="JoshHetherington" constructor="OpenLocalFile" version="0.0.1" display-name-key="OpenLocalFile" description-key="Provide a Custom Control to append a button to a Text field, enabling users to open local files within IE" control-type="standard">
+		<property name="OpenLocalFile" display-name-key="OpenLocalFile" description-key="Provide a Custom Control to append a button to a Text field, enabling users to open local files within IE" of-type="SingleLine.Text" usage="bound" required="true" />
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/OpenLocalFile.css" order="1" />
+      <resx path="strings/OpenLocalFile.1033.resx" version="1.0.0" />
+    </resources>
+  </control>
+</manifest>

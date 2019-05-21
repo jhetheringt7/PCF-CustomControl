@@ -1,0 +1,36 @@
+2019-05-21 14:18:56.922 - Info	
+Packing c:\pcf_postcode\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-21 14:18:56.938 - Info	Processing Component: Entities
+2019-05-21 14:18:56.942 - Info	Processing Component: Roles
+2019-05-21 14:18:56.949 - Info	Processing Component: Workflows
+2019-05-21 14:18:56.950 - Info	Processing Component: FieldSecurityProfiles
+2019-05-21 14:18:56.951 - Info	Processing Component: Templates
+2019-05-21 14:18:56.953 - Info	Processing Component: EntityMaps
+2019-05-21 14:18:56.953 - Info	Processing Component: EntityRelationships
+2019-05-21 14:18:56.963 - Info	Processing Component: OrganizationSettings
+2019-05-21 14:18:56.965 - Info	Processing Component: optionsets
+2019-05-21 14:18:56.966 - Info	Processing Component: CustomControls
+2019-05-21 14:18:56.979 - Info	 - JoshHetherington.postcodeValidation
+2019-05-21 14:18:56.984 - Info	Processing Component: EntityDataProviders
+2019-05-21 14:18:57.028 - Info	
+Unmanaged Pack complete.
+
+2019-05-21 19:39:52.059 - Info	
+Packing c:\PCF-CustomControl\PCF_Postcode\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-21 19:39:52.072 - Info	Processing Component: Entities
+2019-05-21 19:39:52.076 - Info	Processing Component: Roles
+2019-05-21 19:39:52.081 - Info	Processing Component: Workflows
+2019-05-21 19:39:52.084 - Info	Processing Component: FieldSecurityProfiles
+2019-05-21 19:39:52.084 - Info	Processing Component: Templates
+2019-05-21 19:39:52.086 - Info	Processing Component: EntityMaps
+2019-05-21 19:39:52.086 - Info	Processing Component: EntityRelationships
+2019-05-21 19:39:52.092 - Info	Processing Component: OrganizationSettings
+2019-05-21 19:39:52.093 - Info	Processing Component: optionsets
+2019-05-21 19:39:52.094 - Info	Processing Component: CustomControls
+2019-05-21 19:39:52.106 - Info	 - JoshHetherington.postcodeValidation
+2019-05-21 19:39:52.111 - Info	Processing Component: EntityDataProviders
+2019-05-21 19:39:52.172 - Info	
+Managed Pack complete.
+

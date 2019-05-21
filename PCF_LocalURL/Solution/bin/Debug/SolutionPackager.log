@@ -1,0 +1,156 @@
+2019-05-20 13:40:41.304 - Info	
+Packing c:\pcf_localurl\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-20 13:40:41.321 - Info	Processing Component: Entities
+2019-05-20 13:40:41.325 - Info	Processing Component: Roles
+2019-05-20 13:40:41.329 - Info	Processing Component: Workflows
+2019-05-20 13:40:41.330 - Info	Processing Component: FieldSecurityProfiles
+2019-05-20 13:40:41.331 - Info	Processing Component: Templates
+2019-05-20 13:40:41.333 - Info	Processing Component: EntityMaps
+2019-05-20 13:40:41.333 - Info	Processing Component: EntityRelationships
+2019-05-20 13:40:41.341 - Info	Processing Component: OrganizationSettings
+2019-05-20 13:40:41.342 - Info	Processing Component: optionsets
+2019-05-20 13:40:41.343 - Info	Processing Component: CustomControls
+2019-05-20 13:40:41.355 - Info	 - JoshHetherington.openfile
+2019-05-20 13:40:41.374 - Info	Processing Component: EntityDataProviders
+2019-05-20 13:40:41.424 - Info	
+Unmanaged Pack complete.
+
+2019-05-20 13:43:03.352 - Info	
+Packing c:\pcf_localurl\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-20 13:43:03.365 - Info	Processing Component: Entities
+2019-05-20 13:43:03.368 - Info	Processing Component: Roles
+2019-05-20 13:43:03.371 - Info	Processing Component: Workflows
+2019-05-20 13:43:03.372 - Info	Processing Component: FieldSecurityProfiles
+2019-05-20 13:43:03.372 - Info	Processing Component: Templates
+2019-05-20 13:43:03.374 - Info	Processing Component: EntityMaps
+2019-05-20 13:43:03.374 - Info	Processing Component: EntityRelationships
+2019-05-20 13:43:03.381 - Info	Processing Component: OrganizationSettings
+2019-05-20 13:43:03.381 - Info	Processing Component: optionsets
+2019-05-20 13:43:03.382 - Info	Processing Component: CustomControls
+2019-05-20 13:43:03.391 - Info	 - JoshHetherington.OpenLocalFile
+2019-05-20 13:43:03.404 - Info	Processing Component: EntityDataProviders
+2019-05-20 13:43:03.431 - Info	
+Unmanaged Pack complete.
+
+2019-05-20 13:46:02.732 - Info	
+Packing c:\pcf_localurl\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-20 13:46:02.755 - Info	Processing Component: Entities
+2019-05-20 13:46:02.759 - Info	Processing Component: Roles
+2019-05-20 13:46:02.763 - Info	Processing Component: Workflows
+2019-05-20 13:46:02.763 - Info	Processing Component: FieldSecurityProfiles
+2019-05-20 13:46:02.764 - Info	Processing Component: Templates
+2019-05-20 13:46:02.766 - Info	Processing Component: EntityMaps
+2019-05-20 13:46:02.766 - Info	Processing Component: EntityRelationships
+2019-05-20 13:46:02.774 - Info	Processing Component: OrganizationSettings
+2019-05-20 13:46:02.775 - Info	Processing Component: optionsets
+2019-05-20 13:46:02.776 - Info	Processing Component: CustomControls
+2019-05-20 13:46:02.786 - Info	 - JoshHetherington.OpenLocalFile
+2019-05-20 13:46:02.802 - Info	Processing Component: EntityDataProviders
+2019-05-20 13:46:02.828 - Info	
+Managed Pack complete.
+
+2019-05-20 13:49:05.160 - Info	
+Packing c:\pcf_localurl\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-20 13:49:05.182 - Info	Processing Component: Entities
+2019-05-20 13:49:05.187 - Info	Processing Component: Roles
+2019-05-20 13:49:05.192 - Info	Processing Component: Workflows
+2019-05-20 13:49:05.193 - Info	Processing Component: FieldSecurityProfiles
+2019-05-20 13:49:05.194 - Info	Processing Component: Templates
+2019-05-20 13:49:05.196 - Info	Processing Component: EntityMaps
+2019-05-20 13:49:05.196 - Info	Processing Component: EntityRelationships
+2019-05-20 13:49:05.205 - Info	Processing Component: OrganizationSettings
+2019-05-20 13:49:05.206 - Info	Processing Component: optionsets
+2019-05-20 13:49:05.207 - Info	Processing Component: CustomControls
+2019-05-20 13:49:05.219 - Info	 - JoshHetherington.OpenLocalFile
+2019-05-20 13:49:05.235 - Info	Processing Component: EntityDataProviders
+2019-05-20 13:49:05.267 - Info	
+Managed Pack complete.
+
+2019-05-20 13:50:55.699 - Info	
+Packing c:\pcf_localurl\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-20 13:50:55.723 - Info	Processing Component: Entities
+2019-05-20 13:50:55.728 - Info	Processing Component: Roles
+2019-05-20 13:50:55.736 - Info	Processing Component: Workflows
+2019-05-20 13:50:55.737 - Info	Processing Component: FieldSecurityProfiles
+2019-05-20 13:50:55.738 - Info	Processing Component: Templates
+2019-05-20 13:50:55.740 - Info	Processing Component: EntityMaps
+2019-05-20 13:50:55.740 - Info	Processing Component: EntityRelationships
+2019-05-20 13:50:55.751 - Info	Processing Component: OrganizationSettings
+2019-05-20 13:50:55.753 - Info	Processing Component: optionsets
+2019-05-20 13:50:55.753 - Info	Processing Component: CustomControls
+2019-05-20 13:50:55.762 - Info	 - JoshHetherington.OpenLocalFile
+2019-05-20 13:50:55.777 - Info	Processing Component: EntityDataProviders
+2019-05-20 13:50:55.814 - Info	
+Unmanaged Pack complete.
+
+2019-05-20 13:53:30.602 - Info	
+Packing c:\pcf_localurl\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-20 13:53:30.616 - Error	Solution package type did not match requested type.
+Command line argument: Managed
+Package type: Unmanaged
+2019-05-20 13:53:30.617 - Error	See log file 'bin\Debug\\SolutionPackager.log' for details.
+2019-05-20 13:53:30.650 - Error	System.ArgumentException: Solution package type did not match requested type.
+Command line argument: Managed
+Package type: Unmanaged
+   at Microsoft.Crm.Tools.SolutionPackager.Helper.LoadSolutionInformation(Stream solutionXml, Context context)
+   at Microsoft.Crm.Tools.SolutionPackager.DiskReader.Load()
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run(IPackageReader reader, IPackageWriter writer)
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run()
+   at Microsoft.Crm.Tools.SolutionPackager.Program.Main(String[] args)
+2019-05-20 13:57:22.349 - Info	
+Packing c:\pcf_localurl\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-20 13:57:22.362 - Info	Processing Component: Entities
+2019-05-20 13:57:22.365 - Info	Processing Component: Roles
+2019-05-20 13:57:22.369 - Info	Processing Component: Workflows
+2019-05-20 13:57:22.369 - Info	Processing Component: FieldSecurityProfiles
+2019-05-20 13:57:22.369 - Info	Processing Component: Templates
+2019-05-20 13:57:22.372 - Info	Processing Component: EntityMaps
+2019-05-20 13:57:22.373 - Info	Processing Component: EntityRelationships
+2019-05-20 13:57:22.379 - Info	Processing Component: OrganizationSettings
+2019-05-20 13:57:22.380 - Info	Processing Component: optionsets
+2019-05-20 13:57:22.381 - Info	Processing Component: CustomControls
+2019-05-20 13:57:22.391 - Info	 - JoshHetherington.OpenLocalFile
+2019-05-20 13:57:22.403 - Info	Processing Component: EntityDataProviders
+2019-05-20 13:57:22.430 - Info	
+Unmanaged Pack complete.
+
+2019-05-20 14:05:19.622 - Info	
+Packing c:\pcf_localurl\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-20 14:05:19.634 - Error	Solution package type did not match requested type.
+Command line argument: Managed
+Package type: Unmanaged
+2019-05-20 14:05:19.634 - Error	See log file 'bin\Debug\\SolutionPackager.log' for details.
+2019-05-20 14:05:19.650 - Error	System.ArgumentException: Solution package type did not match requested type.
+Command line argument: Managed
+Package type: Unmanaged
+   at Microsoft.Crm.Tools.SolutionPackager.Helper.LoadSolutionInformation(Stream solutionXml, Context context)
+   at Microsoft.Crm.Tools.SolutionPackager.DiskReader.Load()
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run(IPackageReader reader, IPackageWriter writer)
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run()
+   at Microsoft.Crm.Tools.SolutionPackager.Program.Main(String[] args)
+2019-05-20 14:07:13.210 - Info	
+Packing c:\pcf_localurl\Solution\obj\Debug\ to bin\Debug\\Solution.zip
+
+2019-05-20 14:07:13.226 - Info	Processing Component: Entities
+2019-05-20 14:07:13.231 - Info	Processing Component: Roles
+2019-05-20 14:07:13.234 - Info	Processing Component: Workflows
+2019-05-20 14:07:13.235 - Info	Processing Component: FieldSecurityProfiles
+2019-05-20 14:07:13.235 - Info	Processing Component: Templates
+2019-05-20 14:07:13.237 - Info	Processing Component: EntityMaps
+2019-05-20 14:07:13.237 - Info	Processing Component: EntityRelationships
+2019-05-20 14:07:13.246 - Info	Processing Component: OrganizationSettings
+2019-05-20 14:07:13.247 - Info	Processing Component: optionsets
+2019-05-20 14:07:13.248 - Info	Processing Component: CustomControls
+2019-05-20 14:07:13.257 - Info	 - JoshHetherington.OpenLocalFile
+2019-05-20 14:07:13.271 - Info	Processing Component: EntityDataProviders
+2019-05-20 14:07:13.299 - Info	
+Managed Pack complete.
+

@@ -1,0 +1,7 @@
+.JoshHetherington\.postcodeValidation input.Valid_Button_Style{
+	background-color: rgba(0, 128, 0, 0.363);
+}
+
+.JoshHetherington\.postcodeValidation input.Invalid_Button_Style{
+	background-color: rgba(255, 0, 0, 0.384);
+}

@@ -1,0 +1,16 @@
+.rathbones\.urlcontrol button.SimpleIncrement_Button_Style {
+	text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 6px;
+    cursor: pointer;
+	color: white;
+    border-radius: 0px;
+	background-color: rgb(59, 121, 183);
+    border: none;
+    padding: 5px;
+    text-align: center;
+}
+.rathbones\.urlcontrol button.SimpleIncrement_Input_Error_Style{
+	color: red;
+}

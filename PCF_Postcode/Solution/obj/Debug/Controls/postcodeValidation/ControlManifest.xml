@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="JoshHetherington" constructor="postcodeValidation" version="0.0.1" display-name-key="postcodeValidation" description-key="A Custom Control to validate the given UK Postcode" control-type="standard">
+    <property name="sampleProperty" display-name-key="postcodeValidation" description-key="A Custom Control to validate the given UK Postcode" of-type="SingleLine.Text" usage="bound" required="true"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+      <css path="validatePostcode.css" order="1"/>
+    </resources>
+  </control>
+</manifest>
